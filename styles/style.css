@@ -112,6 +112,24 @@ padding-bottom: 24px;
     padding-top: 130px;
    
 }
+
+.btn-secondary{
+    color: #FFFFFF;
+    background-color: #FF900E;
+    width: 342px;
+height: 200px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+font-size: 25px;
+line-height: 40px;
+}
+.experience{
+    font-weight: 700;
+font-size: 65px;
+line-height: 70px;
+}
+
 .section-paragraph{
     padding-bottom: 60px;
     color: #727272;
